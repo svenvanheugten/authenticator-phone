@@ -46,6 +46,9 @@ adb shell pm disable-user --user 0 com.android.settings
 adb shell pm disable-user --user 0 com.google.android.apps.docs
 adb shell pm disable-user --user 0 com.sec.android.app.launcher
 adb shell pm disable-user --user 0 com.android.vending
+adb shell pm disable-user --user 0 com.facebook.appmanager
+adb shell pm disable-user --user 0 com.facebook.services
+adb shell pm disable-user --user 0 com.facebook.system
 ```
 
 Re-enable the Play Store temporarily to allow updating apps:
