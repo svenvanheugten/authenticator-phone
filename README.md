@@ -1,5 +1,14 @@
 Phone: Samsung Galaxy A3 (2017)
-Launcher: OLauncher
+
+Factory reset.
+
+Download [a black background](https://singlecolorimage.com/get/000000/100x100) and set it as the background for both the lock screen and the home screen.
+
+Install [Before Launcher](https://play.google.com/store/apps/details?id=com.beforesoft.launcher) and configure it as follows:
+
+1. Go into Styles & Themes > Backgrounds & Themes and switch to a theme with a black background.
+2. Go into Apps and set "App List Screen" to off.
+3. Go into Notification Filter and set "Notification Filter Screen" to off.
 
 Disable pretty much all apps:
 
