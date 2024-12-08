@@ -2,7 +2,7 @@
 
 I use [a dumbphone](https://en.wikipedia.org/wiki/Feature_phone), but I increasingly find myself requiring authenticator and payment apps in everyday life.
 
-This document contains non-generic instructions for turning [a Samsung Galaxy A3 (2017)](https://en.wikipedia.org/wiki/2017_edition_of_the_Samsung_Galaxy_A_series#Galaxy_A3) in to an 'authenticator phone' that only contains one or two essential apps, and no other features. I hope that these instructions can serve as an example that can be generalized to other smartphones. Contributions are welcome.
+This document contains non-generic instructions for turning [a Samsung Galaxy A3 (2017)](https://en.wikipedia.org/wiki/2017_edition_of_the_Samsung_Galaxy_A_series#Galaxy_A3) in to an 'authenticator phone' that only contains one or two essential apps, and no other features. I hope that these instructions can serve as an example that can be generalized to other Android phones. Contributions are welcome.
 
 <img src="home-screen.png" width="200px" />
 
