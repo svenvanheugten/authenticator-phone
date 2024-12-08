@@ -4,6 +4,8 @@ I use [a dumbphone](https://en.wikipedia.org/wiki/Feature_phone), but I increasi
 
 This document contains non-generic instructions for turning [a Samsung Galaxy A3 (2017)](https://en.wikipedia.org/wiki/2017_edition_of_the_Samsung_Galaxy_A_series#Galaxy_A3) in to an 'authenticator phone' that only contains one or two essential apps, and no other features. I hope that these instructions can serve as an example that can be generalized to other smartphones. Contributions are welcome.
 
+![Home Screen](home-screen.png)
+
 ## Instructions
 
 ### Initial set-up
