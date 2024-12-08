@@ -1,3 +1,4 @@
+Phone: Samsung Galaxy A3 (2017)
 Launcher: OLauncher
 
 Disable pretty much all apps:
